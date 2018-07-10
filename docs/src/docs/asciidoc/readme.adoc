@@ -1,0 +1,17 @@
+= AdLoveYou
+
+Application exemple pour tester des nouvelles technologies
+
+== Listes des technologies voulues
+
+[listing]
+----
+Architecture Hexagonal
+Event Sourcing
+CQRS
+Clean Code
+Kotlin
+Spring
+Angular
+React Native
+----
