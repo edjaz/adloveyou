@@ -41,6 +41,10 @@ include 'core:security:domain'
 include 'core:security:usecase:api'
 include 'core:security:usecase:impl'
 
+include 'core:admin-security:domain'
+include 'core:admin-security:usecase:api'
+include 'core:admin-security:usecase:impl'
+
 include 'core:stat:domain'
 include 'core:stat:usecase:api'
 include 'core:stat:usecase:impl'
